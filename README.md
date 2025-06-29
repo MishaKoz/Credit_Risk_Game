@@ -2,6 +2,8 @@
 
 A simple app that helps to understand credit risk in a interactive and easily explained way.
 
+Open the App in Browser: https://mishakoz-credit-risk-game.streamlit.app 
+
 
 ### How to run it on your own machine
 
