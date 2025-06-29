@@ -9,7 +9,7 @@ Open the App in Browser: https://credit-risk-game.streamlit.app/
 
 1. Clone the repository:
    ```
-  ```bash
+  bash
 git clone https://github.com/MishaKoz/Credit_Risk_Game.git
    ```
 
