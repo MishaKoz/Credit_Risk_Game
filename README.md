@@ -11,7 +11,6 @@ Open the App in Browser: https://credit-risk-game.streamlit.app/
    ```
  git clone https://github.com/MishaKoz/Credit_Risk_Game.git
  cd Credit_Risk_Game
-
    ```
 
 2. Install the requirements
