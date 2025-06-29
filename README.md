@@ -1,26 +1,34 @@
 # 💰 Credit risk game
-
 A simple app that helps to understand credit risk in a interactive and easily explained way.
+## Open the App
+## Launch in Browser: https://credit-risk-game.streamlit.app/
 
-Open the App in Browser: https://credit-risk-game.streamlit.app/
+## Run Locally
 
+If you prefer to run the app on your computer:
+### 1. Clone the repository
 
-### How to run it locally 
+```bash
+git clone https://github.com/MishaKoz/Credit_Risk_Game.git
+cd Credit_Risk_Game
+```
 
-1. Clone the repository:
-   ```bash
- git clone https://github.com/MishaKoz/Credit_Risk_Game.git
- cd Credit_Risk_Game
-   ```
+### 2. (Optional) Create a virtual environment
 
-2. Install the requirements
+```bash
+python -m venv venv
+source venv/bin/activate  # macOS/Linux
+venv\Scripts\activate     # Windows
+```
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+### 3. Install the requirements 
 
-3. Run the app
+```bash
+pip install -r requirements.txt
+```
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+### 4. Run the app
+
+```bash
+streamlit run streanlit_app.py
+```
