@@ -1,5 +1,5 @@
 # 💰 Credit risk game
-A simple app that helps to understand credit risk in a interactive and easily explained way.
+A simple app that helps to understand credit risk in a interactive and easily explained way. It includes theory(formulas, tables, models, etc.), interactive sliders and mini-quizzes to this theory.
 ## Open the App
 ## Launch in Browser: https://credit-risk-game.streamlit.app/
 
